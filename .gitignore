@@ -1,0 +1,22 @@
+# Node
+node_modules
+package-lock.json
+yarn.lock
+yarn-error.log
+pnpm-lock.yaml
+pnpm-global
+.yarn
+.pnpm-debug.log
+lerna-debug.log
+dist
+dist-ssr
+*.local
+build
+.DS_Store
+*.log
+.idea
+.vscode
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
