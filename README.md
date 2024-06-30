@@ -1,4 +1,4 @@
-# Doubly Linked List Implementation in TypeScript
+# Data Structures in JS with TypeScript : DSinTS
 
 This project provides an implementation of a doubly linked list in TypeScript. A doubly linked list is a data structure consisting of a set of sequentially linked records called nodes. Each node contains two fields, each containing a reference (link) to the next or previous node in the sequence.
 
@@ -39,6 +39,7 @@ This project provides an implementation of a doubly linked list in TypeScript. A
     pnpm exec ts-node src/index.ts
 
 ## Contributing
+   Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
   
 
 
